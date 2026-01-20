@@ -1,5 +1,3 @@
-# estudos-ciberseguranca
-Anotações e estudos práticos em Cibersegurança, Pentest e Segurança da Informação.
 # Estudos em Cibersegurança
 
 Este repositório contém anotações e estudos realizados durante minha graduação em Cibersegurança e estudos complementares.
