@@ -14,5 +14,5 @@ Este repositório contém anotações e estudos realizados durante minha gradua�
 
 ## Projetos Relacionados
 - 🌐 **Site Pessoal / Portfólio**  
-  Repositório: https://github.com/francinelesoares/Meu-Site
+  Repositório:  https://francinelesoares.github.io/meusite/
   Projeto desenvolvido em HTML e CSS como parte dos meus estudos.
